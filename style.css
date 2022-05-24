@@ -20,3 +20,15 @@
     height: 500px;
     border: 4mm ridge rgba(211, 220, 50, .6);
 }
+
+iframe {
+    border: 4mm ridge rgba(100, 300, 50, .5);
+    border-radius: 10px;
+}
+
+footer {
+    font-family: monospace;
+    font-size: 24px;
+    background-color: antiquewhite;
+    padding: auto;
+}
