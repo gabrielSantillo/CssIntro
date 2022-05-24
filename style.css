@@ -1,3 +1,22 @@
-p {
+#title {
+    color: aquamarine;
+    border: 4mm ridge rgba(39, 67, 209, 0.6);
+}
+
+.gray_p {
     font-family: monospace;
+    font-size: 24px;
+    color: rgb(135, 129, 129);
+}
+
+#bold_p {
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 24px;
+}
+
+.leaf_image {
+    width: 800px;
+    height: 500px;
+    border: 4mm ridge rgba(211, 220, 50, .6);
 }
