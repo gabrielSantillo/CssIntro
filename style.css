@@ -1,3 +1,6 @@
+body {
+    background-color: white;
+}
 #title {
     color: aquamarine;
     border: 4mm ridge rgba(39, 67, 209, 0.6);
